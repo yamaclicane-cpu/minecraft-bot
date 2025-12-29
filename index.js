@@ -5,7 +5,7 @@ function createBot() {
         host: 'tybgrlcraft.falixsrv.me', // Falix'ten aldığın IP
         port: 41124,               // Port numaran
         username: 'AFK_Botu_724',
-        version: '1.21.11'          // Senin sürümün
+        version: '1.21'          // Senin sürümün
     })
 
     bot.on('login', () => {
